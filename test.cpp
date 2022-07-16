@@ -1,4 +1,6 @@
+#include <iomanip>
 #include <iostream>
+#include <iterator>
 #include "stringctgen.hpp"
 
 int main() {
